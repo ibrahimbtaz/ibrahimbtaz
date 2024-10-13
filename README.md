@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/user-attachments/assets/2639c4f4-0282-4a2a-8bf5-e6b2a0706637" alt="imphnen" />
+<img src="https://github.com/user-attachments/assets/2639c4f4-0282-4a2a-8bf5-e6b2a0706637" alt="imphnen" width=300/>
 <!--
 **ibrahimbtaz/ibrahimbtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
