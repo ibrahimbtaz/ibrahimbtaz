@@ -1,5 +1,5 @@
 ```bash
-surya@surya:~$ whoami
+surya@surya:~$ cat whoami.txt
 
 > Muhammad Surya Ibrahim
 > Computer Science Student from Indonesia
