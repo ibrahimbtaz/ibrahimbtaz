@@ -11,6 +11,7 @@ surya@surya:~$ ls -l skill/
 total 12
 drwxr-xr-x  2 surya  surya   4096  May 13 10:01  artificial_intelligence
 drwxr-xr-x  2 surya  surya   4096  May 13 10:02  backend
+drwxr-xr-x  2 surya  surya   4096  May 13 10:04  cybersecurity
 drwxr-xr-x  2 surya  surya   4096  May 13 10:03  frontend
 surya@surya:~$ cat skill/backend/stack.txt
 
@@ -28,6 +29,10 @@ surya@surya:~$ cat skill/frontend/stack.txt
 > react
 
 surya@surya:~$ cat skill/artificial_intelligence/stack.txt
+
+> # Coming soon (stay tuned!)
+
+surya@surya:~$ cat skill/cybersecurity/stack.txt
 
 > # Coming soon (stay tuned!)
 
