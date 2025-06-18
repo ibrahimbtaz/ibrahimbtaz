@@ -2,24 +2,30 @@
 surya@surya:~$ cat whoami.txt
 
 > Muhammad Surya Ibrahim
+> Fullstack Developer
 > Computer Science Student from Indonesia
 > Passionate about building intelligent systems.
+> Member of Ingin Menjadi Programmer Handal, Namun Enggan Ngoding
 
 surya@surya:~$ ls -l skill/
-
-> drwxr-xr-x  1 surya  staff   160B  Oct 27 10:02  backend/
-> drwxr-xr-x  1 surya  staff    96B  Oct 27 10:03  artificial_intelligence/
-
+total 12
+drwxr-xr-x  2 surya  surya   4096  May 13 10:01  artificial_intelligence
+drwxr-xr-x  2 surya  surya   4096  May 13 10:02  backend
+drwxr-xr-x  2 surya  surya   4096  May 13 10:03  frontend
 surya@surya:~$ cat skill/backend/stack.txt
 
-> # Languages & Frameworks
+> # Server-Side Technologies
 > php          laravel      
 > python       django
-> javascript   nextjs
->
-> # Databases & Tools
 > mysql        docker
-> redis        git 
+> redis        git
+
+surya@surya:~$ cat skill/frontend/stack.txt
+
+> # Client-Side Technologies
+> dart          flutter
+> javascript    nextjs
+> react
 
 surya@surya:~$ cat skill/artificial_intelligence/stack.txt
 
@@ -29,5 +35,7 @@ surya@surya:~$ ./contact.sh
 
 > Email: ibrahimbtaz@gmail.com
 > LinkedIn: https://linkedin.com/in/suryaibrahim
+> Instagram: https://instagram.com/suryaibrahimm
+> Facebook: https://facebook.com/suryaibrahimm
 
 surya@surya:~$ █
