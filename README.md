@@ -1,19 +1,33 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2639c4f4-0282-4a2a-8bf5-e6b2a0706637" alt="imphnen" width=300/>
-</p>
+```bash
+surya@surya:~$ whoami
 
-<!--
-**ibrahimbtaz/ibrahimbtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Muhammad Surya Ibrahim
+> Computer Science Student from Indonesia
+> Passionate about building intelligent systems.
 
-Here are some ideas to get you started:
+surya@surya:~$ ls -l skill/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> drwxr-xr-x  1 surya  staff   160B  Oct 27 10:02  backend/
+> drwxr-xr-x  1 surya  staff    96B  Oct 27 10:03  artificial_intelligence/
+
+surya@surya:~$ cat skill/backend/stack.txt
+
+> # Languages & Frameworks
+> php          laravel      
+> python       django
+> javascript   nextjs
+>
+> # Databases & Tools
+> mysql        docker
+> redis        git 
+
+surya@surya:~$ cat skill/artificial_intelligence/stack.txt
+
+> # Coming soon (stay tuned!)
+
+surya@surya:~$ ./contact.sh
+
+> Email: ibrahimbtaz@gmail.com
+> LinkedIn: https://linkedin.com/in/suryaibrahim
+
+surya@surya:~$ █
