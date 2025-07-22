@@ -7,6 +7,7 @@
   "skills": [
     ".php",
     ".js",
+    ".ts",
     ".cpp",
     ".py"
   ]
