@@ -1,46 +1,47 @@
-```bash
-surya@surya:~$ cat whoami.txt
-
-> Muhammad Surya Ibrahim
-> Fullstack Developer
-> Computer Science Student from Indonesia
-> Passionate about building intelligent systems.
-> Member of Ingin Menjadi Programmer Handal, Namun Enggan Ngoding
-
-surya@surya:~$ ls -l skill/
-total 12
-drwxr-xr-x  2 surya  surya   4096  May 13 10:01  artificial_intelligence
-drwxr-xr-x  2 surya  surya   4096  May 13 10:02  backend
-drwxr-xr-x  2 surya  surya   4096  May 13 10:04  cybersecurity
-drwxr-xr-x  2 surya  surya   4096  May 13 10:03  frontend
-surya@surya:~$ cat skill/backend/stack.txt
-
-> # Server-Side Technologies
-> php          laravel      
-> python       django
-> mysql        docker
-> redis        git
-
-surya@surya:~$ cat skill/frontend/stack.txt
-
-> # Client-Side Technologies
-> dart          flutter
-> javascript    nextjs
-> react
-
-surya@surya:~$ cat skill/artificial_intelligence/stack.txt
-
-> # Coming soon (stay tuned!)
-
-surya@surya:~$ cat skill/cybersecurity/stack.txt
-
-> # Coming soon (stay tuned!)
-
-surya@surya:~$ ./contact.sh
-
-> Email: ibrahimbtaz@gmail.com
-> LinkedIn: https://linkedin.com/in/suryaibrahim
-> Instagram: https://instagram.com/suryaibrahimm
-> Facebook: https://facebook.com/suryaibrahimm
-
-surya@surya:~$ █
+```json
+{
+  "personal_info": {
+    "name": "Muhammad Surya Ibrahim",
+    "title": "Fullstack Developer",
+    "description": "Computer Science Student from Indonesia",
+    "passion": "Passionate about building intelligent systems.",
+    "community": "Member of Ingin Menjadi Programmer Handal, Namun Enggan Ngoding"
+  },
+  "skills": {
+    "backend": {
+      "description": "# Server-Side Technologies",
+      "stack": [
+        "php",
+        "laravel",
+        "python",
+        "django",
+        "mysql",
+        "docker",
+        "redis",
+        "git"
+      ]
+    },
+    "frontend": {
+      "description": "# Client-Side Technologies",
+      "stack": [
+        "dart",
+        "flutter",
+        "javascript",
+        "nextjs",
+        "react"
+      ]
+    },
+    "artificial_intelligence": {
+      "status": "# Coming soon (stay tuned!)"
+    },
+    "cybersecurity": {
+      "status": "# Coming soon (stay tuned!)"
+    }
+  },
+  "contact": {
+    "email": "ibrahimbtaz@gmail.com",
+    "linkedin": "https://linkedin.com/in/suryaibrahim",
+    "instagram": "https://instagram.com/suryaibrahimm",
+    "facebook": "https://facebook.com/suryaibrahimm"
+  }
+}
