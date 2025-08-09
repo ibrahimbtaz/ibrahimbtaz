@@ -1,3 +1,13 @@
+<div align="center">
+    <p>
+        <img
+            src="https://c.tenor.com/ZjdNrXbaOg0AAAAC/tenor.gif"
+            width="600px"
+            height="auto"
+        />
+    </p>
+</div>
+
 ```json
 {
   "name": "Muhammad Surya Ibrahim",
