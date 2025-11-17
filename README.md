@@ -1,4 +1,5 @@
 <div align="center">
+    <p> ついに俺を見つけた☺️ </p>
     <p>
         <img
             src="https://c.tenor.com/ZjdNrXbaOg0AAAAC/tenor.gif"
