@@ -15,5 +15,5 @@
   "email": "ibrahimbtaz@gmail.com",
   "title": "Computer Science Student from Indonesia",
   "community": "-",
-  "learning": [".php",".ts",".cpp",".py",".rs"]
+  "learning": [".c",".cpp",".rs",".php",".ts",".py"]
 }
