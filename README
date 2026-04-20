@@ -1,4 +1,4 @@
-char name[64] = "Muhammad Surya Ibrahim";
-char email[64] = "ibrahimbtaz@gmail.com";
-char title[64] = "Computer Science Student from Indonesia";
-int learning[] = {'.c', '.cpp', '.rs', '.php', '.ts', '.py'};
+	char name[64] = "Muhammad Surya Ibrahim";
+	char email[64] = "ibrahimbtaz@gmail.com";
+	char title[64] = "Computer Science Student from Indonesia";
+  char *learning[] = {".c", ".cpp", ".rs", ".php", ".ts", ".py"};
